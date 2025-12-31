@@ -63,6 +63,8 @@ Zaman ölçümleri **`std::chrono`** kütüphanesi kullanılarak yapılmıştır
 - deleteKey  
 - Merge(H1, H2)  
 
+ Heap işlemlerinin doğruluğu ve çalışma süreleri test edilmiştir.
+ 
 ---
 ## 6. Greedy Algoritmalar
 
